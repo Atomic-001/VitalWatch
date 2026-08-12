@@ -14,7 +14,7 @@ auto-refreshing dashboard with automated alerting.
 |---|---|---|
 | Sayed Rakibul Hasan Shanto | S394549 | Project Manager / Data & Ingestion Engineer |
 | Shahidur Rahman Shimul | S395447 | Stream Processing & Storage Engineer |
-| Rakib Uddin Asim | S[ID] | Visualisation, Alerting & QA/Documentation Lead |
+| Rakib Uddin Asim | S3955509 | Visualisation, Alerting & QA/Documentation Lead |
 
 ## Architecture
 
