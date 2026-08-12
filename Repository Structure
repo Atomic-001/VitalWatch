@@ -1,0 +1,18 @@
+vitalwatch/
+├── README.md
+├── docs/
+│   ├── PRT661_Assessment1_Proposal.docx
+│   ├── architecture.png
+│   └── workflow.png
+├── simulator/
+│   └── vitals_simulator.py        # generates simulated patient vitals events
+├── streaming/
+│   └── (Spark Structured Streaming jobs — added in Phase 3)
+├── storage/
+│   └── (DB schema / migration scripts — added in Phase 3)
+├── dashboard/
+│   └── (Dash/Plotly app — added in Phase 4)
+├── alerting/
+│   └── (alert service — added in Phase 4)
+└── tests/
+    └── (unit/integration tests — added in Phase 5)
