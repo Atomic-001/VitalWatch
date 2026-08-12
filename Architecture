@@ -1,3 +1,0 @@
-Vitals Simulator -> Kafka (ingestion) -> Spark Structured Streaming (rules)
-      -> InfluxDB (time-series) + PostgreSQL (metadata)
-      -> Dash/Plotly Dashboard (live view) + Alert Service (email/SMS)
