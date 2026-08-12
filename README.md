@@ -24,8 +24,8 @@ Vitals Simulator -> Kafka (ingestion) -> Spark Structured Streaming (rules)
       -> Dash/Plotly Dashboard (live view) + Alert Service (email/SMS)
 ```
 
-See `docs/architecture.png` and `docs/workflow.png` for the full diagrams, and
-`docs/PRT661_Assessment1_Proposal.docx` for the complete written proposal.
+<img width="906" height="469" alt="image" src="https://github.com/user-attachments/assets/73bae3de-989d-4d34-8367-b8a1d4608a4e" />
+
 
 ## Repository Structure
 
